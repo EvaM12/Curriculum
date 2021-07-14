@@ -1,0 +1,70 @@
+#educacion h2{
+    top: 160px;
+    left: -120px;
+    background-color: #f63366;
+    width: 250px;
+    text-align: center;
+}
+
+#educacion p{
+    margin-left: 200px;
+    padding: 15px 10px 0;
+}
+
+#educacion p:first-of-type{
+    margin-top: 25px;
+    padding-top: 0;
+}
+
+#educacion strong{
+    position: absolute;
+    left: 120px;
+}
+
+#educacion img{
+    position: absolute;
+    left: 262px;
+    height: 20px;
+    width: 20px;
+}
+
+#educacion strong:first-of-type{
+    top: 75px;
+}
+
+#educacion strong:nth-of-type(2){
+    top: 223px;
+}
+
+#educacion strong:nth-of-type(3){
+    top: 343px;
+}
+
+#educacion img:first-of-type{
+    top: 77px;
+}
+
+#educacion img:nth-of-type(2){
+    top: 225px;
+}
+
+#educacion img:nth-of-type(3){
+    top: 345px;
+}
+
+#mirrete{
+    position: absolute;
+    height: 100px !important;
+    width: 100px !important;
+    left: 830px !important;
+    top: 205px;
+}
+
+#barra{
+    position: absolute;
+    width: 5px;
+    height: 350px;
+    left: 270px;
+    top: 65px;
+    background-color: #f63366;
+}

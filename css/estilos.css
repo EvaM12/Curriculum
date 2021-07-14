@@ -1,0 +1,172 @@
+#contenido{
+    left: 29.8%;
+    background-color: white;
+    width: 70%;
+    position: absolute;
+    top: 0;
+    padding-top: 50px;
+    font-size: 1.2em;
+}
+
+#contenido section{
+    margin-right: 125px;
+    margin-left: 100px;
+    text-align: justify;
+    display: inline-block;
+}
+
+#contenido h2{
+    transform: rotate(90deg);
+    position: absolute;
+    left: -80px;
+    font-size: 1.5em;
+    color: white;
+    padding: 20px 20px 30px;
+    border-radius: 15px;
+}
+
+#contenido i{
+    position: absolute;
+    border-bottom: 1px solid gray;
+    width: 800px;
+    color: white;
+    margin-top: -25px;
+}
+
+#certificados h2{
+    top: 1300px;
+    left: -119px;
+    background-color: #2baafa;
+    width: 250px;
+    text-align: center;
+}
+
+#certificados strong{
+    margin-bottom: 15px;
+    margin-left: 15px;
+}
+
+#certificados p{
+    margin-top: 8px;
+    margin-bottom: 18px;
+    margin-left: 85px;
+}
+
+#d1{
+    top: 1123px;
+}
+#d2{
+    top: 1285px;
+}
+#d3{
+    top: 1360px;
+}
+#d4{
+    top: 1468px;
+}
+#d5{
+    top: 1577px;
+}
+#d6{
+    top: 1659px;
+}
+
+#diploma{
+    position: absolute;
+    height: 100px !important;
+    width: 100px !important;
+    left: 835px !important;
+    top: 1355px;
+    padding: 0 !important;
+}
+
+#certificados i{
+    top: 1730px;
+}
+
+#empleos h2{
+    top: 1770px;
+    left: -70px;
+    background-color: #018e42;
+    width: 150px;
+    text-align: center;
+}
+
+#barra2{
+    position: absolute;
+    width: 5px;
+    height: 230px;
+    left: 270px;
+    top: 1725px;
+    background-color: #018e42;
+}
+
+#verde {
+    position: absolute;
+    left: 262px;
+    height: 20px;
+    width: 20px;
+    top: 1740px;
+}
+
+#empleos div{
+    margin-left: 200px;
+    padding: 30px 10px 0;
+    text-decoration: none;
+
+}
+
+#empleos div b{
+    font-family: 'Gill Sans MT', sans-serif;
+    font-size: 1.15em;
+    line-height: 30px;
+}
+
+#est{
+    padding-top: 5px;
+    font-weight: bold;
+    line-height: 15px;
+}
+
+#empleos strong{
+    position: absolute;
+    left: 120px;
+    padding-top: 25px;
+    font-size: 1.15em;
+    text-align: center;
+}
+
+#empleos p{
+    padding: 0;
+}
+
+#empleos li p{
+    margin-left: 15px;
+    margin-bottom: -15px;
+    padding: 0;
+}
+
+#empleos ul{
+    margin-top: -55px;
+    margin-left: -20px;
+}
+#e1{
+    top: 1821px;
+    left: 340px;
+}
+#e2{
+    top: 1885px;
+    left: 340px;
+}
+#e3{
+    top: 1920px;
+    left: 340px;
+}
+
+#engranaje{
+    position: absolute;
+    height: 100px !important;
+    width: 100px !important;
+    left: 830px !important;
+    top: 1800px;
+}

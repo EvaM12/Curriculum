@@ -1,0 +1,131 @@
+#habilidades h2{
+    top: 580px;
+    left: -120px;
+    background-color: #f25f5c;
+    width: 250px;
+    text-align: center;
+}
+
+#habilidades form{
+    padding-bottom: 20px;
+}
+
+progress[value] {
+    -webkit-appearance: none;
+    appearance: none;
+}
+progress[value]::-webkit-progress-value{
+    background-color: #f25f5c;
+    border-radius: 20px;
+}
+progress[value]::-webkit-progress-bar{
+    border: 1px solid #f25f5c;
+    border-radius: 20px;
+    background-color: white;
+    height: 20px;
+}
+
+#habilidades progress{
+    left: 550px;
+    position: absolute;
+    margin-bottom: 10px;
+}
+
+#mikrotik, #i1{
+    top: 500px;
+}
+
+#sql, #i2{
+    top: 530px;
+}
+
+#html, #i3{
+    top: 558px;
+}
+
+#php, #i4{
+    top: 585px;
+}
+
+#js, #i5{
+    top: 612px;
+}
+
+#seg, #i6{
+    top: 640px;
+}
+
+#gbd, #i7{
+    top: 669px;
+}
+
+#habilidades label{
+    margin-left: 10px;
+}
+
+#habilidades a{
+    margin-left: 10px;
+}
+
+#prof{
+    position: absolute;
+    margin-top: -42px;
+    margin-left: 20px;
+}
+
+#repositorios strong{
+    margin-top: -25px;
+    margin-left: 20px;
+}
+
+#repositorios{
+    margin-top: -25px;
+}
+
+#i8{
+    top: 780px;
+}
+
+#i9{
+    top: 815px;
+}
+
+#ordenador{
+    position: absolute;
+    height: 100px !important;
+    width: 100px !important;
+    left: 830px !important;
+    top: 625px;
+}
+
+ul{
+    margin-top: -1px;
+}
+
+#repositorios ul{
+    padding-top: 10px;
+}
+
+li{
+    margin-left: 40px;
+}
+
+li a{
+    color: black;
+}
+
+.bullet{
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    left: 150px;
+}
+
+
+#habilidades i{
+    margin-top: -72px;
+}
+
+#educacion i{
+    margin-top: -30px;
+}

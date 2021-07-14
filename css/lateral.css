@@ -1,0 +1,206 @@
+#lateral{
+    position: absolute;
+    width: 30%;
+    height: 300%;
+    background-color: #091540;
+    top: 0;
+    left: 0;
+    color: white;
+    text-align: justify;
+
+}
+
+#lateral img{
+    width: 80%;
+    height: 325px;
+    border-radius: 50%;
+    margin: 14% 10% 4% 8%;
+    border: 10px solid white;
+}
+
+#texto{
+    margin-left: 10%;
+    margin-right: 10%;
+    top: 70%;
+}
+
+#texto h1{
+    text-align: center;
+    font-size: 3.5em;
+    margin-bottom: 12%;
+    margin-top: 2%;
+}
+
+#lateral h2{
+    background-color: rgb(0,21,42);
+    padding-left: 5%;
+    text-transform: uppercase;
+}
+
+#lateral p{
+    margin: 5% 10%;
+    font-size: 1.05em;
+}
+
+#contacto p{
+    margin: 3.5% 10%;
+}
+
+#lateral div img{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    border: none;
+    border-radius: 0;
+    margin-top: 0;
+    right: 0;
+}
+
+#lateral section img{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    border: none;
+    border-radius: 0;
+    margin-top: 0;
+    right: 0;
+}
+
+#resumen img{
+    top: 36%;
+}
+
+#contacto img{
+    top: 49.2%;
+}
+
+#hobbies img{
+    top: 77.4%;
+}
+
+#hobbies h2{
+    margin-top: 10px;
+}
+
+#contacto figcaption p{
+    margin-left: 25%;
+}
+
+#contacto figcaption img{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border: none;
+    left: 5%;
+}
+
+#tel img{
+    top: 52%;
+}
+
+#fijo img{
+    top: 54.3%;
+}
+
+#direccion img{
+    top: 56.9%;
+}
+
+#correo img{
+    top: 59.3%;
+}
+
+#linkedin img{
+    top: 61.3%;
+}
+
+#hobbies figcaption img{
+    width: 3.4cm;
+    height: 3.4cm;
+    margin-left: 10%;
+    position: absolute;
+    border: none;
+    margin-top: 0;
+}
+
+#hobbies figcaption h3{
+    position: absolute;
+}
+
+#musica h3{
+    top: 85.7%;
+    left: 15%;
+    width: 3.4cm;
+    text-align: center;
+}
+
+#cervezas h3{
+    top: 85.7%;
+    left: 60%;
+    width: 3.4cm;
+    text-align: center;
+}
+
+#cine h3{
+    top: 96.5%;
+    left: 13.1%;
+}
+
+
+#baile h3{
+    top: 96.5%;
+    left: 60%;
+    width: 3.4cm;
+    text-align: center;
+}
+
+#musica img{
+    left: 5%;
+    top: 80%;
+}
+
+#cervezas img{
+    left: 50%;
+    top: 80%;
+}
+
+#baile img{
+    left: 50%;
+    top: 90.7%;
+}
+
+#cine img{
+    top: 90.7%;
+    left: 5%;
+}
+
+#eng{
+    top: 64.8%;
+}
+
+#extra li{
+    text-decoration: none;
+    color: white;
+    font-style: italic;
+    padding-bottom: 15px;
+}
+
+#extra li p{
+    margin: 0 0 0 6%;
+}
+
+#extra li img{
+    position: absolute;
+    left: 6%;
+    width: 30px;
+    height: 30px;
+    margin-top: -3px;
+}
+
+#extra ul{
+    margin-right: 10%;
+}
+
+#extra h2{
+    margin-top: 40px;
+}
